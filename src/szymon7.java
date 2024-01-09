@@ -1,6 +1,6 @@
 public class szymon7 {
     public static void main(String[] args) {
-        double aakcjakcje = 600;
+        double akcjakcje = 600;
         double ceni =21.77;
         double prowizja = 0.02;
         double costam =600*21.77;
